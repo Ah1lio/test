@@ -1,3 +1,5 @@
 # Hello, world! 
 
-i dtudy
+i study
+
+07.05.2023
